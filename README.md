@@ -20,7 +20,7 @@
 
 - A Info. Sec. & Networks enthusiast.
 - A Computer Science and Engineering Undergrad. 
-- Currently working on Open-Source project based on Network security.
+- Working on Open-Source project based on Network security.
 - Learning new stuff to improve my fornt-end development skills. 
 - Better an "oops!" than a "what if?".<br />
 
