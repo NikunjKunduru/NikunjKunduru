@@ -7,8 +7,8 @@
 
 - A Info. Sec. & Networks enthusiast.
 - A Computer Science and Engineering Undergrad. 
-- Working on Open-Source project based on Network security.
-- Learning new stuff to improve my fornt-end development skills. 
+- Working on Open-Source project based on Network Sec.
+- Constantly learning new stuff to improve my skills. 
 - Better an "oops!" than a "what if?".<br /><br />
 
 
