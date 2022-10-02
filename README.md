@@ -2,7 +2,7 @@
 
 
 <br />
-<img align="right" alt="GIF" src="developers.gif" height ="325px" weidth ="250px" />
+<img align="right" alt="GIF" src="developers.gif" height ="300px" weidth ="250px" />
 
 
 - A Info. Sec. & Networks enthusiast.
