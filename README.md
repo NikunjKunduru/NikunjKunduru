@@ -5,9 +5,7 @@
 <img align="right" alt="GIF" src="developers.gif" height ="300px" weidth ="250px" />
 
 
-- A Info. Sec. & Networks enthusiast.
 - A Computer Science and Engineering Undergrad. 
-- Working on Open-Source project based on Network Sec.
 - Constantly learning new stuff to improve my skills. 
 - Better an "oops!" than a "what if?".<br /><br />
 
